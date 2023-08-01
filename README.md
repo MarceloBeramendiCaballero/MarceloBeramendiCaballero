@@ -1,5 +1,5 @@
 <h1>Hi, I'm Marcelo!</h1>
-I'm interested in how artificial intelligence and machine learning can be used to study neuroscience and human cognition. Below is a list of the projects I have worked on.
+I'm interested in using artificial intelligence and machine learning to study neuroscience and human cognition. Below is a list of the projects I have worked on.
 
 <h2> Projects:</h2>
 
