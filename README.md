@@ -9,5 +9,6 @@ During my time at CWRU, I worked on several projects that combine AI, ML, and ma
 
 - <b>Cognitive Science</b>
   - [Modeling the propagation of political beliefs in social networks](https://github.com/MarceloBeramendiCaballero/belief-propagation-in-social-networks/tree/main)
+  - [Decision trees as a computational model for mental heuristics in human decision-making: a study of poker duels](https://github.com/MarceloBeramendiCaballero/decision-trees-in-poker-duels)
 
 <h3> Under Construction</h2>
