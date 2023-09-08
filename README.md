@@ -3,7 +3,7 @@ During my time at CWRU, I worked on several projects that combine AI, ML, and ma
 
 <h2> Projects:</h2>
 
-- <b>Neuroscience</b>
+- <b>Bioinformatics and Neuroscience</b>
   - [Predicting the amount of food swallowed during Aplysia californica feeding from neural recordings](https://github.com/MarceloBeramendiCaballero/AplysiaQuantitativeBehavioralPredictions/tree/main)
   - [Modeling the heating process of Aplysia californica's pleural-abdominal nerve under infrared inhibition](https://github.com/MarceloBeramendiCaballero/infrared-neuromodulation-model/tree/main)
   - [Motor learning of the optokinetic response: implementing a simple model of the cerebellar circuit](https://github.com/MarceloBeramendiCaballero/motor-learning-of-optokinetic-response/tree/main)
