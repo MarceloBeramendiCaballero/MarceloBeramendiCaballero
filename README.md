@@ -11,4 +11,4 @@ During my time at CWRU, I worked on several projects that combine AI, ML, and ma
 - <b>Artificial Intelligence and Computational Cognition</b>
   - [Modeling the propagation of political beliefs in social networks](https://github.com/MarceloBeramendiCaballero/belief-propagation-in-social-networks/tree/main)
   - [Using decision trees to model mental heuristics in human decision-making: a study of poker duels](https://github.com/MarceloBeramendiCaballero/decision-trees-in-poker-duels)
-  - [Studying adversarial examples with class-specific adversarial training](https://github.com/MarceloBeramendiCaballero/class-specific-adversarial-training/blob/main/README.md)
+  - [Studying adversarial examples with class-specific adversarial training](https://github.com/MarceloBeramendiCaballero/class-specific-adversarial-training/tree/main)
